@@ -26,5 +26,10 @@ Este documento  firmado en Washington el 1 de diciembre de 1959 es una de esa co
 carácter militar, tal como el establecimiento de bases y fortificaciones militares, la realización de
 maniobras militares, así como los ensayos de toda clase de armas.
 
+Bueno ahora que ya acabamos de asentarnos hemos tenido la suerte de cruzarnos con la ivestigadora Kristen Gorman, ella y su equipo han estado recopilando datos sobre pingüinos y les gustaría hacer un analísis de datos... 
+<img src="./files/kristen_gorman_oscean_sciencies"/>
+
+¿Nos ponemos a ello?
+
 
 
