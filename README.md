@@ -16,7 +16,7 @@ No necesitas saber nada, solo tener la voluntad de viajar...
 Comencemos... voy a necesitar que utilices tu imaginación *(el presupuesto de este readme no da para más)* 
 
 Cierra los ojos estamos viajando al archipiélago Palmer de la Antártida...PUUUUUM
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Palmer_Station_Antarctica_seaside.jpg"/>
+<img src="./files/palmer_travel.jpg"/>
 
 Bien, llegados a este punto ahora tienes que saber que te encuentras bajo el [tratado antártico](https://www.ciencia.gob.es/Organismos-y-Centros/Comite-Polar-Espanol/Tratado-Antartico.html;jsessionid=A025137586B4CCFB1D608323D604080C.1),
 
