@@ -22,9 +22,7 @@ Bien, llegados a este punto ahora tienes que saber que te encuentras bajo el [tr
 
 Este documento  firmado en Washington el 1 de diciembre de 1959 es una de esa cosas que te hacen no perder la fe en la humanidad...
 
-> 📖Artículo 1: La Antártida se utilizará **exclusivamente para fines pacíficos**. Se prohíbe, entre otras, toda medida de
-carácter militar, tal como el establecimiento de bases y fortificaciones militares, la realización de
-maniobras militares, así como los ensayos de toda clase de armas.
+> 📖Artículo 1: La Antártida se utilizará **exclusivamente para fines pacíficos**...
 
 Bueno ahora que ya acabamos de asentarnos hemos tenido la suerte de cruzarnos con la ivestigadora Kristen Gorman, ella y su equipo han estado recopilando datos sobre pingüinos y les gustaría hacer un analísis de datos... 
 <img src="./files/kristen_gorman_oscean_sciencies"/>
