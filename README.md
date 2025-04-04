@@ -28,7 +28,7 @@ Bueno ahora que ya acabamos de asentarnos hemos tenido la suerte de cruzarnos co
 
 <img src="./files/kristen_gorman_ocean_sciences.jpg"/>
 
-¿Nos ponemos a ello?
+[¿Nos ponemos a ello?](./penguins-data-analisis.ipynb)
 
 
 
