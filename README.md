@@ -25,7 +25,8 @@ Este documento  firmado en Washington el 1 de diciembre de 1959 es una de esa co
 > 📖Artículo 1: La Antártida se utilizará **exclusivamente para fines pacíficos**...
 
 Bueno ahora que ya acabamos de asentarnos hemos tenido la suerte de cruzarnos con la ivestigadora Kristen Gorman, ella y su equipo han estado recopilando datos sobre pingüinos y les gustaría hacer un analísis de datos... 
-<img src="./files/kristen_gorman_oscean_sciencies"/>
+
+<img src="./files/kristen_gorman_ocean_sciences.jpg"/>
 
 ¿Nos ponemos a ello?
 
